@@ -1,6 +1,6 @@
 # SkyHigh Airlines – Power BI Flight Performance Dashboard
 
-An interactive three-page Power BI report that analyses flights, delays, passenger satisfaction and revenue for SkyHigh Airlines.
+An interactive Power BI report that analyses flights, delays, passenger satisfaction and revenue for SkyHigh Airlines.
 
 ## Project background
 
@@ -99,10 +99,8 @@ Data notes:
 
 ## Tools used
 
-- Microsoft Power BI Desktop
-- DAX
-- Power Query
-- CSV data files
+- Microsoft Power BI Desktop (DAX, Power Query)
+- MS Excel (CSV data files)
 
 ## How to open
 
